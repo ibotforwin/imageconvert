@@ -1,0 +1,6 @@
+/frontend/node_modules/
+/db.sqlite3
+/manage.py
+/templates/
+/staticfiles/
+/local_env/
